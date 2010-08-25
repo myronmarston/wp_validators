@@ -1,0 +1,3 @@
+module WpValidators
+  # Your code goes here...
+end
